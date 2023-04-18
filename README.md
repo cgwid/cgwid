@@ -16,6 +16,8 @@
 
 ![ms-graph-hack-together-microsoft-365-power-platform](https://user-images.githubusercontent.com/12521724/232897858-14362a99-fa96-4b76-9994-bffa01aac02a.png)
 
+[![GitHub repo - PreviewDay](https://img.shields.io/badge/Repo-PreviewDay-green?style=for-the-badge&logo=github)](https://github.com/cgwid/PreviewDay#readme)
+
 
 <!--
 **cgwid/cgwid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
